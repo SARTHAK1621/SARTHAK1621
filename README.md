@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SARTHAK1621
+- 👋 Hi, I’m @SARTHAK TRIPATHY
 - 👀 I’m interested in Web Application Devlopment
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Angular,NodeJS,MongoDB,Express
